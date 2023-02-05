@@ -1,11 +1,11 @@
 # Hello Everyone! 👋
 
 <p>
-Hello! I'm S.M.A Nahian. 
+Hello! I'm S M A Nahian. 
 I am from Bangladesh. 
-I am 15 years old. 
+I am 16 years old. 
 I am a high school student. 
-I am currently studying in tenth grade at Shamsul Haque Khan School & College, Dhaka.
+I am currently studying in eleventh grade at Dhaka College.
 <br />
 <br />
 I am a Math enthusiast. 
