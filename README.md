@@ -4,8 +4,7 @@
 Hello! I'm S M A Nahian. 
 I am from Bangladesh. 
 I am 18 years old. 
-I am a high school student. 
-I am currently studying in 12th grade at Dhaka College.
+I've recently graduated from Dhaka College.
 <br />
 <br />
 I am a Math enthusiast. 
