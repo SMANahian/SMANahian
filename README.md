@@ -3,8 +3,8 @@
 <p>
 Hello! I'm S M A Nahian. 
 I am from Bangladesh. 
-I am 18 years old. 
-I've recently graduated from Dhaka College.
+I am <strong>19</strong> years old. 
+I am now an undergraduate at <strong>MIT (Class of 2029)</strong>.
 <br />
 <br />
 I am a Math enthusiast. 
@@ -19,11 +19,14 @@ I also like to code.
 I am a beginner at competitive programming, but I am trying to improve. 
 Mainly, I started competitive programming to improve my combinatorics skill, but now I do it because I liked it. 
 You can check out my cp profile at <a href="https://codeforces.com/profile/Nahian9696">Codeforces</a>, <a href="https://atcoder.jp/users/Nahian9696">AtCoder</a> <!--, <a href="https://www.topcoder.com/members/Nahian9696/">TopCoder</a> --> and <a href="https://www.codechef.com/users/nahian9696">Codechef</a>. 
-I have ranked #210 at <a href="https://apio2024.org/ranking"> Asia-Pacific Informatics Olympiad 2024 </a>
+I have ranked #210 at the Asia-Pacific Informatics Olympiad 2024.
 I use C++, Python and Java for cp. 
 Besides competitive programming, I am learning web application development.
 <!-- You can check some of them <a href="/#fun">here</a> -->
 <br />
 <br />
 In my free time, I love to play chess on some online platforms (<a href="https://www.chess.com/member/sma-nahian">chess.com</a>, <a href="https://lichess.org/@/SMA-Nahian">lichess</a>, <a href="https://chessarena.com/profile/648139">FIDE Online Arena</a>) and to listen music (You can follow my playlists on <a href="https://open.spotify.com/user/v8hap9t4lweyw8z23cfsl83hs">Spotify</a> if you like Taylor Swift songs :p ).
+<br />
+<br />
+You can also check out my research works and publications on my <a href="https://scholar.google.com/citations?user=K1tHNEsAAAAJ&hl=en">Google Scholar</a> profile.
 </p>
